@@ -1,0 +1,17 @@
+{
+    "name": "Driver",
+    "keywords": "microservice,luos,ST",
+    "description": "a simple driver",
+    "version": "1.0.0",
+    "authors": {
+        "name": "Luos",
+        "url": "https://luos.io"
+    },
+    "licence": "MIT",
+    "dependencies": [
+        {
+            "name": "luos/Luos",
+            "version": "^2.0.0"
+        }
+    ]
+}
